@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    color: cadetblue;
+    text-align: center;
+    font-size:x-large;
+    background-color: bisque;
+}
+
+main{
+    margin-left:  25%;
+    padding: 20px;
+    width: 60%;
+    margin: 0- auto;
+    text-align: center;
+}
+
+button{
+    margin-left: 20%;
+    background-color:aquamarine;
+}
+
+button a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
